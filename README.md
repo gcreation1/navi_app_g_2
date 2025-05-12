@@ -1,7 +1,7 @@
 # navi_app_g_2
 <<<<<<< HEAD
 
-A new Flutter project.
+A new Flutter project. (wrong)
 
 ## Getting Started
 
