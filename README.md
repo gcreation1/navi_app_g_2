@@ -1,4 +1,5 @@
 # navi_app_g_2
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Learning Navigatione
+>>>>>>> b433ce653439ad9c0315991d3db44d0cc33788b3
